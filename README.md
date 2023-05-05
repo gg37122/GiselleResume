@@ -1,5 +1,5 @@
 # GiselleResume
-Sample works to give context to my experience.
+Welcome to Porfolio of sample works. I am providing this with the intention of displaying the skills stated on my resume.
 
 Please see basci_sql_sample.sql to see SQL experience.
 
